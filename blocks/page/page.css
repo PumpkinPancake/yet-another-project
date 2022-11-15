@@ -3,5 +3,7 @@
     font-family: inter;
     color: white;
     margin: 0 auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
