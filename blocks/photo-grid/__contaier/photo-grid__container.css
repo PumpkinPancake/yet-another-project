@@ -11,3 +11,9 @@
         grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
     }
 }
+
+@media screen and (max-width: 425px) {
+    .photo-grid__container {
+        gap: 12px;
+    }
+}
