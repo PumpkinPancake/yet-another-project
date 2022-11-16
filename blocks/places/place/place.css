@@ -20,6 +20,7 @@
 @media screen and (max-width: 1023px) and (min-width: 425px) {
     .place {
         padding-bottom: 72px;
+        gap: 28px;
     }
 }
 
