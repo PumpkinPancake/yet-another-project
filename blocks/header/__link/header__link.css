@@ -22,3 +22,7 @@
     line-height: 20px;
     }
 }
+
+.header__link_action:focus {
+    text-decoration: underline;
+}
