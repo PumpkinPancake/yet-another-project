@@ -4,6 +4,7 @@
     font-weight: 400;
     line-height: 29.34px;
     padding-bottom: 25px;
+    align-self: stretch;
 }
 
 .place__paragraph:last-child {

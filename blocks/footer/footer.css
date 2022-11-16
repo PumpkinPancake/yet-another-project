@@ -5,6 +5,7 @@
     grid-template-columns: repeat(5, min-content) 1fr;
     grid-template-rows: min-content;
     padding-bottom: 24px;
+    max-width: 1184px;
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
