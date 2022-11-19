@@ -5,6 +5,7 @@
     font-weight: 400;
     justify-self: end;
     align-self: end;
+    width: max-content;
 }
 
 @media screen and (max-width: 768px) {

@@ -1,0 +1,19 @@
+.footer__link_wrapper {
+    padding-right: 18px;
+}
+
+.footer__link_wrapper:last-child {
+    margin-right: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__link_wrapper {
+        margin: 0 0 32px;
+    }    
+}
+
+@media screen and (max-width: 767px) {
+    .footer__link_wrapper:last-child {
+        margin: 0;
+    }    
+}

@@ -8,13 +8,11 @@
     padding-bottom: 32px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        font-weight: 900;
         max-width: 288px;
-        margin: 0 auto;
         padding-bottom: 15px;
     }
     

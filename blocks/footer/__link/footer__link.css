@@ -4,35 +4,16 @@
     line-height: 24px;
     font-weight: 400;
     text-decoration: none;
-    padding-right: 18px;
     transition: .3s ease;
+    width: fit-content;
 }
 
 .footer__link:hover {
     opacity: .8;
 }
 
-.footer__link:last-child {
-    padding-right: 0;
-}
-
 @media screen and (max-width: 767px) {
     .footer__link {
         font-size: 24px;
-        line-height: 24px;
-        font-weight: 400;
-        padding: 0 0 32px;
-    }    
-}
-
-@media screen and (max-width: 767px) {
-    .footer__link:nth-child(5) {
-        padding: 0 0 48px;
-    }    
-}
-
-@media screen and (max-width: 768px) {
-    .footer__link:last-child {
-        padding: 0;
     }    
 }

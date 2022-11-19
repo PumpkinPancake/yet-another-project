@@ -15,4 +15,4 @@
 * Модификаторы
 * import
 ------
-Ссылка на проект: https://github.com/PumpkinPancake
+Ссылка на проект: https://pumpkinpancake.github.io/yet-another-project/
