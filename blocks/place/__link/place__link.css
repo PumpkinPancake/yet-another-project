@@ -5,6 +5,7 @@
     font-weight: 400;
     color: white;
     width: fit-content;
+    text-underline-offset: 3px;
 }
 
 .place__link:hover {
