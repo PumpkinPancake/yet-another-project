@@ -1,5 +1,4 @@
 .place__website {
-    max-height: 46px;
     display: grid;
     gap: 12px;
     align-self: end;
