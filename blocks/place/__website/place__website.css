@@ -6,6 +6,12 @@
     padding-bottom: 20px;
 }
 
+@media screen and (max-width: 1023px) {
+    .place__website {
+        gap: 15px;
+    }    
+}
+
 @media screen and (max-width: 767px) {
     .place__website {
         width: calc(100% - 2*16px);
