@@ -1,6 +1,6 @@
 .place__website {
     display: grid;
-    gap: 12px;
+    gap: 8px;
     align-self: end;
     grid-column: 2/3;
     padding-bottom: 20px;
