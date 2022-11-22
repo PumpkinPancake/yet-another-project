@@ -9,7 +9,7 @@
     .place {
         grid-template-columns: 1fr minmax(352px, 1fr);
         column-gap: 20px;
-        row-gap: 26px;
+        row-gap: 28px;
         padding-bottom: 72px;
     }    
 }
@@ -22,6 +22,7 @@
 @media screen and (max-width: 768px) {
     .place {
         padding-bottom: 70px;
+        row-gap: 26px;
     }
 }
 
